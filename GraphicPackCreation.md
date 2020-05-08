@@ -1,0 +1,3 @@
+# Making a Graphic Pack
+Open up the image you want to edit and customize it.
+NOTE: Images that have a large amount of unused space has it for a reason. Do NOT resize the image or get rid of empty space. Once you have customized all the images you want, open Dredark. Open the Settings tab then click 'Modify Assets'. You should see a box in a bigger box. Drag all the images in the Items folder into the box labeled /img/item/, and all the rest of the images into the box labeled /img/. Hit 'Refresh' and close the menu. If the images don't automatically change, Press Ctrl+R or press the refresh button on your browser.
